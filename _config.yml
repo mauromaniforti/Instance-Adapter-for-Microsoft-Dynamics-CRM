@@ -1,0 +1,8 @@
+title: Instance Adapter for Microsoft Dynamics CRM
+description: Using Connector for Microsoft Dynamics to integrate two Dynamics CRM instances
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
